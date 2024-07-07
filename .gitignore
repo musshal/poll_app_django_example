@@ -1,2 +1,3 @@
 basic_poll_app/__pycache__
 polls/__pycache__
+db.sqlite3
